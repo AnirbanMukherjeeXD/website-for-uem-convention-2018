@@ -184,7 +184,7 @@ button:hover {
   }
   .jumbotron * , nav{animation:reveal 3s ease;}
   .about {
-	  background: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.8)),url(images/uem-cover.jpg);
+	  background: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.8)),url(images/UEM-Cover.jpg);
 	  background-size:cover;
 	  background-attachment: fixed;
   }
